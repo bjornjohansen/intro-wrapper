@@ -13,7 +13,7 @@ Wrap your intro text in a DIV element with the class "intro"
 
 == Description ==
 
-This plugin takes care of wrapping your intro text (everything before <!--more--> -- also called "teaser content") in a div element with the class "intro". 
+This plugin takes care of wrapping your intro text (everything before &lt;!--more--&gt; -- also called "teaser content") in a div element with the class "intro". 
 
 This allows for easy styling of the intro text, e.g. with larger fonts, colors, etc.
 
