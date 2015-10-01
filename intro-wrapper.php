@@ -3,13 +3,13 @@
 Plugin Name: Intro Wrapper
 Plugin URI: http://wordpress.org/extend/plugins/intro-wrapper/
 Description: Wraps your intro text in a DIV element with the class "intro"
-Version: 1.0
+Version: 1.1
 Author: Bjørn Johansen
-Author URI: http://twitter.com/bjornjohansen
+Author URI: https://bjornjohansen.no
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-    Copyright 2013 Bjørn Johansen (email : post@bjornjohansen.no)
+    Copyright 2013-2015 Bjørn Johansen (email : post@bjornjohansen.no)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
