@@ -1,6 +1,6 @@
 === Intro Wrapper ===
 Contributors: bjornjohansen
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NLUWR4SHCJRBJ
+Donate link: http://www.kiva.org/
 Tags: intro, css, wrapper, styling, styles
 Author URI: http://twitter.com/bjornjohansen
 Requires at least: 3.2
