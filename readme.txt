@@ -4,7 +4,7 @@ Donate link: http://www.kiva.org/
 Tags: intro, css, wrapper, styling, styles
 Author URI: http://twitter.com/bjornjohansen
 Requires at least: 3.2
-Tested up to: 3.5.1
+Tested up to: 4.3.1
 Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
