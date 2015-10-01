@@ -3,7 +3,7 @@
 Plugin Name: Intro Wrapper
 Plugin URI: http://wordpress.org/extend/plugins/intro-wrapper/
 Description: Wraps your intro text in a DIV element with the class "intro"
-Version: 1.1
+Version: 1.1.1
 Author: Bjørn Johansen
 Author URI: https://bjornjohansen.no
 License: GPL2
